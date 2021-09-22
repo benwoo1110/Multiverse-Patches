@@ -1,0 +1,6 @@
+name: Multiverse-Patches
+version: ${project.version}
+main: dev.benergy10.multiversepatches.MultiversePatches
+authors: [ benwoo1110 ]
+description: Patches some exploits for old multiverse builds.
+depend: [Multiverse-Core]
