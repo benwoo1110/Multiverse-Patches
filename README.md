@@ -3,7 +3,7 @@
 ![Plugin-Version](https://img.shields.io/spiget/version/96390?label=version)
 ![Downloads](https://img.shields.io/spiget/downloads/96390?label=downloads)
 ![Rating](https://img.shields.io/spiget/rating/96390?label=rating)
-[![License](https://img.shields.io/github/license/benwoo1110/FlyPerms)](LICENSE)
+[![License](https://img.shields.io/github/license/benwoo1110/Multiverse-Patches)](LICENSE)
 
 ### Fixes some important bugs and exploits for those that can't update multiverse to the latest version for whatever reason.
 
